@@ -6,7 +6,7 @@
 
 ---
 
-🎓 Currently surviving BTech in Computer Science & Engineering at AITS.  
+🎓 Currently pursuing BTech in Computer Science & Engineering at AITS.  
 🔐 Passionate about cybersecurity, ethical hacking, and occasionally breaking my own code.  
 💻 Strong foundation in Python, Java, and C — and a growing collection of half-finished side projects.  
 🎯 Eager to learn, experiment, and someday actually finish all the projects I've started.  
