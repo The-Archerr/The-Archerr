@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Usha Sree Poola! 👋
 
-<!--
-**The-Archerr/The-Archerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Enthusiast | BTech CSE Student @ AITS | GATE CSE Aspirant**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently surviving BTech in Computer Science & Engineering at AITS.  
+🔐 Passionate about cybersecurity, ethical hacking, and occasionally breaking my own code.  
+💻 Strong foundation in Python, Java, and C — and a growing collection of half-finished side projects.  
+🎯 Eager to learn, experiment, and someday actually finish all the projects I've started.  
+🗣️ Class Representative and active participant in every technical event I can find (or accidentally volunteer for).
+
+---
+
+## 🔹 Skills
+- Python (for coding and creative debugging)
+- Java (when I'm feeling brave)
+- C (where every error is a "fun challenge")
+- Frontend Development (and hours of trying to get it looking decent)
+
+## 🔹 Interests
+- Hacking (ethically, of course)
+- Cybersecurity 
+- Network Security
+
+---
+
+## 📫 Connect with me
+- [LinkedIn](your-linkedin-url)
+
+---
+# Hi there, I'm Usha Sree Poola! 👋
+
+**Cybersecurity Enthusiast | BTech CSE Student @ AITS | GATE CSE Aspirant**
+
+---
+
+🎓 Currently surviving BTech in Computer Science & Engineering at AITS.  
+🔐 Passionate about cybersecurity, ethical hacking, and occasionally breaking my own code.  
+💻 Strong foundation in Python, Java, and C — and a growing collection of half-finished side projects.  
+🎯 Eager to learn, experiment, and someday actually finish all the projects I've started.  
+🗣️ Class Representative and active participant in every technical event I can find (or accidentally volunteer for).
+
+---
+
+## 🔹 Skills
+- Python (for coding and creative debugging)
+- Java (when I'm feeling brave)
+- C (where every error is a "fun challenge")
+- Problem-Solving (eventually)
+- Security Fundamentals (and questioning everything)
+
+## 🔹 Interests
+- Ethical Hacking (ethically, of course)
+- Cybersecurity (breaking things to make them stronger)
+- Network Security (because firewalls are cool)
+
+---
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ushasree-poola/)
+
+---
+
+
