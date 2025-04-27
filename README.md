@@ -1,4 +1,4 @@
-# Hi there, I'm Usha Sree Poola! 
+# Hello, Github. I'm Usha Sree Poola! 
 
 ![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
