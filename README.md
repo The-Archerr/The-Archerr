@@ -39,6 +39,7 @@
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ushasree-poola/)
+- [Email](mailto:ushasreepoola369@gmail.com)
 
 ---
 
