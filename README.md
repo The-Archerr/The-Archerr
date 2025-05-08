@@ -26,7 +26,7 @@ Eager to expand my knowledge in ethical hacking and network security, I actively
 
 - Ethical Hacking
 - Cybersecurity
-- Network Security (and the crucial skill of identifying and avoiding suspiciously enticing links)
+- Network Security 
 
 ---
 
