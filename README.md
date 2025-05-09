@@ -22,8 +22,9 @@ Eager to expand my knowledge in ethical hacking and network security, I actively
 
 ---
 
-### 🔭 Currently Exploring:
+### 🔭 Currently Working On:
 
+- My Sem Exams 
 - Ethical Hacking
 - Cybersecurity
 - Network Security 
