@@ -2,12 +2,12 @@
 
 ![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
-**Cybersecurity Enthusiast | BTech CSE @ AITS | Aspiring GATE Cracker**
+**Cybersecurity Enthusiast | BTech CSE @ AITS | GATE Aspirant**
 
 Hello, Friend.
 Currently a second year BTech CSE student at AITS with a strong inclination towards all things cybersecurity. My adventures in Python, Java, and C have been... educational, if not a tad bit frustrating at times (mostly my own doing, let's be honest).
 
-Eager to expand my knowledge in ethical hacking and network security, I actively engage in technical events conducted at our college and serve as a Class Representative(LR). My goal is to transform my enthusiasm and growing skillset into a meaningful contribution to the cybersecurity community. Wish me luck (especially with GATE).
+Eager to expand my knowledge in ethical hacking and network security, I actively engage in technical events conducted at our college and serve as a Class Representative(LR). 
 
 ---
 
