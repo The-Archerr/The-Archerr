@@ -1,8 +1,10 @@
 # Hiya. I'm Usha Sree Poola! 
 
-![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
+![welcometoprofilereadme](https://github.com/user-attachments/assets/0ac78cbc-b8a2-412a-9c5b-0401da966390)
 
 **Cybersecurity Enthusiast | BTech CSE @ AITS | GATE Aspirant**
+
+![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
 Hello, Friend.
 Currently a second year BTech CSE student at AITS with a strong inclination towards all things cybersecurity. My adventures in Python, Java, and C have been... educational, if not a tad bit frustrating at times (mostly my own doing, let's be honest).
