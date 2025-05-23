@@ -1,6 +1,6 @@
 # Hiya. I'm Usha Sree Poola! 
 
-![welcometoprofilereadmecropped](https://github.com/user-attachments/assets/0a15eef7-2d61-41cd-9a3f-edc4f3db3aff)
+![welcometoprofilereadme](https://github.com/user-attachments/assets/2d7f637d-f13d-42d6-8f50-d7a576207136)
 
 **Cybersecurity Enthusiast | BTech CSE @ AITS | GATE Aspirant**
 
