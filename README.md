@@ -7,7 +7,7 @@
 ![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
 Hello, Friend.
-Currently a second year BTech CSE student at AITS with a strong inclination towards all things cybersecurity. My adventures in Python, Java, and C have been... educational, if not a tad bit frustrating at times (mostly my own doing, let's be honest).
+Currently a prefinal year BTech CSE student at AITS with a strong inclination towards all things cybersecurity. My adventures in Python, Java, and C have been... educational, if not a tad bit frustrating at times (mostly my own doing, let's be honest).
 
 Eager to expand my knowledge in ethical hacking and network security, I actively engage in technical events conducted at our college and serve as a Class Representative(LR). 
 
