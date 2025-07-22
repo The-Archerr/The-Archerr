@@ -6,7 +6,6 @@
 
 ![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
-Hello, Friend.
 I'm a pre-final year BTech Cybersecurity student familiar with various programming languages, SQL, Pentesting and some frontend web dev. I'm extremely interested in VAPT and IT and I am looking for internships in those domains. 
 
 I am the class representative of CSE-CIC batch 2023-2027, I'm active in many of the college societies and groups - I participate and help organize a lot of competitions and hackathons in my college, also taking up leadership roles as needed. 
