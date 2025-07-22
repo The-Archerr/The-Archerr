@@ -2,7 +2,7 @@
 
 ![welcometoprofilereadme](https://github.com/user-attachments/assets/2d7f637d-f13d-42d6-8f50-d7a576207136)
 
-**Cybersecurity Enthusiast | BTech CSE @ AITS | GATE Aspirant**
+**Cybersecurity Enthusiast | BTech CSE @ AITS**
 
 ![banner](https://github.com/user-attachments/assets/fc2952bc-c28b-46de-b62f-1508824a473a)
 
